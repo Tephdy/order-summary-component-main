@@ -138,8 +138,6 @@ main{
 .attribution{
     text-align: center;
     font-size: 16px;
-    display: flex;
-    flex-direction: row;
 }
 
 @media (max-width:768px) {
