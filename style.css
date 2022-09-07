@@ -144,7 +144,7 @@ main{
 
 @media (max-width:768px) {
     main{
-        padding:5px;
+        padding:3px;
     .card-container{
         max-width: 375px;
     }
